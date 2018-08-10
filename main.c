@@ -22,7 +22,7 @@ uint64_t tick = 0;
 uint64_t switch_tick = 0;
 int frames = 0;
 int fps = 0;
-int mode = INTEGER_FPS;
+int mode = NO_FPS;
 uint64_t t_tick;
 
 SceCtrlData pad;
